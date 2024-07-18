@@ -1,0 +1,4 @@
+Pagi... nama saya Farhan dari Mampang Jakarta
+Saya ingin belajar web programming dengan backend .net Myql with microservices and frontedn RX
+Adakah tutorialnya ?
+Terima kasih atas bantuannya
